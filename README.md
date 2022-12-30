@@ -14,6 +14,20 @@ Create an NFT gallery by querying blockchain data. Enter the wallet and collecti
 
 - Tailwind CSS
 
+## Installation
+
+```
+Clone repo
+```
+
+```
+install dependencies
+```
+
+```
+npm run dev
+```
+
 ## Contributor
 
 Erik Williams
