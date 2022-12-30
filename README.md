@@ -4,7 +4,7 @@ Create an NFT gallery by querying blockchain data. Enter the wallet and collecti
 
 ## Demo
 
-[](./public/demo.gif)
+![](./public/demo.gif)
 
 ## Built with
 
