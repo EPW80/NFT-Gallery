@@ -95,7 +95,7 @@ const Home = () => {
             } else fetchNFTs()
           }}
         >
-          Let's go!{' '}
+          Grab Collection!{' '}
         </button>
       </div>
       <div className="mt-4 flex w-5/6 flex-wrap justify-center gap-y-12 gap-x-2">
