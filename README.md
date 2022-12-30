@@ -34,4 +34,4 @@ Erik Williams
 
 ### special thanks to the creator of this NFT collection:
 
-[<img src="./public/pic.jpg">](hhttps://opensea.io/collection/thepossessed)
+ [![P4SD](./public/pic.jpg)](https://opensea.io/collection/thepossessed)
