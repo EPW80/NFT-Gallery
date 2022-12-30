@@ -31,3 +31,7 @@ npm run dev
 ## Contributor
 
 Erik Williams
+
+### special thanks to the creator of this NFT collection:
+
+[<img src="./public/pic.jpg">](hhttps://opensea.io/collection/thepossessed)
