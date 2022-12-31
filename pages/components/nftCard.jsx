@@ -1,4 +1,4 @@
-export default NFTCard = ({ nft }) => {
+export const NFTCard = ({ nft }) => {
   return (
     <div className="flex w-1/4 flex-col ">
       <div className="rounded-md">
