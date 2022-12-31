@@ -36,4 +36,6 @@ export const NFTCard = ({ nft }) => {
       </div>
     </div>
   )
+  
 }
+export default NFT
