@@ -1,12 +1,12 @@
 # NFT-Gallery
 
-Create an NFT gallery by querying blockchain data. Enter the wallet and collection addresses of the NFT's you would like to fetch and HAZAA! This application will allow you to query blockchain databases, using the Alchemy API to connect to the blockchain, and creating an NFT Gallery through handling of metadata.
+Create an NFT gallery by querying blockchain data. Enter the wallet and collection addresses of the NFTs you would like to fetch, and the collection will appear! This application will allow you to query blockchain databases, using the Alchemy API to connect to the blockchain and create an NFT Gallery through the handling of metadata.
 
 ## Demo
 
 ![](./public/demo.gif)
 
-## Built with
+## Built
 
 - Solidity
 
@@ -17,21 +17,13 @@ Create an NFT gallery by querying blockchain data. Enter the wallet and collecti
 ## Installation
 
 ```
-Clone repo
-```
+git clone
 
-```
 install dependencies
-```
 
-```
 npm run dev
 ```
 
 ## Contributor
 
 Erik Williams
-
-### special thanks to the creator of this NFT collection:
-
- [![P4SD](./public/pic.jpg)](https://opensea.io/collection/thepossessed)
